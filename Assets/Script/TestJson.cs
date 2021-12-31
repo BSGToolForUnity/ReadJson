@@ -1,17 +1,10 @@
-﻿using LitJson;
-using Sirenix.OdinInspector;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
-using System.Text;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
-using Random = UnityEngine.Random;
+using Random = UnityEngine.Random; 
 
 public class TestJson : MonoBehaviour
 {
-    string flie = "jsontest.json";  
+    string flie = "jsontest.json";
 
     public StudentData creatStudentData;
     public StudentData readStudentData;
