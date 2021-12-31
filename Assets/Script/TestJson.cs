@@ -89,6 +89,7 @@ public struct StudentData //学生信息
 public struct Class
 {
     public string className; //班级名
+    public Vector2 classPos; //班级位置 
     public StudentInfo[] studentInfos;  //学生信息
 }
 /// <summary>
