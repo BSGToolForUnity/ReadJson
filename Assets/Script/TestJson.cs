@@ -19,15 +19,23 @@ public class TestJson : MonoBehaviour
     {
         //有个小遗憾   修改readData 时候 会同时修改 creatStudent  
         flie = inputField.text;
-        readStudentData = BSGJsonExtension.BSGReadJson<StudentData>(flie, creatStudentData);
+        readStudentData = BSGJsonExtension.BSGReadPersistentJson<StudentData>(flie, creatStudentData);
     }
+
+    public void BtnRead2()  
+    {
+        //有个小遗憾   修改readData 时候 会同时修改 creatStudent  
+        flie = inputField.text;
+        readStudentData = BSGJsonExtension.BSGReadDataPathJson<StudentData>(flie, creatStudentData); 
+    }
+
     public void BtnSet()
     {
         for (int i = 0; i < readStudentData.classes.Length; i++)
         {
             readStudentData.classes[i].className = "修改班级" + i;
         }
-        BSGJsonExtension.BSGSaveJson<StudentData>(flie, readStudentData);
+        BSGJsonExtension.BSGSavePersistentJson<StudentData>(flie, readStudentData);
     }
     /// <summary>
     /// 初始化Data
