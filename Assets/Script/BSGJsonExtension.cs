@@ -5,6 +5,7 @@ using UnityEngine;
 
 public static class BSGJsonExtension
 {
+    //支持平台 WindowsEditor   Windows 
     //使用方法
     //读取
     //readStudentData = BSGJsonExtension.BSGReadJson<StudentData>(flie, creatStudentData);
@@ -112,6 +113,22 @@ public static class BSGJsonExtension
     #endregion
 
     #region Application.dataPath 
+
+    private static string GetDataPathUrl(string file)   
+    {
+#if UNITY_EDITOR
+        var url = Application.dataPath + "/Resources/Jsons/" + file;
+#elif UNITY_STANDALONE_WIN
+        var url = Application.dataPath + "/Resources/" + file;
+#elif UNITY_ANDROID  
+       // var url = Application.dataPath + "/Resources/" + file;//安装无法读写 替换路径为persistentDataPath
+         var url = Application.persistentDataPath + "/" + file;  
+#else
+        var url = Application.dataPath + "/Resources/Jsons/" + file;  
+#endif
+        return url; 
+    }
+
     /// <summary>
     /// 读取Json Application.persistentDataPath
     /// </summary>
@@ -122,11 +139,8 @@ public static class BSGJsonExtension
     /// <returns></returns>
     public static T BSGReadDataPathJson<T>(string file, T defaultInfo = default(T), System.Action fileNotFoundException = null)
     {
-        /*
-          WWW www = new WWW("jar:file://" + Application.dataPath + "!/assets/"+dataName);
-          WWW www = new WWW("file://"+Application.dataPath + "/Raw/"+dataName);
-         */
-        var url = Application.dataPath + "/Resources/Jsons" + file;
+        var url = GetDataPathUrl(file);
+
         Debug.Log("读取路径" + url);
         if (File.Exists(url))
         {
@@ -164,7 +178,7 @@ public static class BSGJsonExtension
 
     public static bool BSGSaveDataPathJson<T>(string file, T info)
     {
-        var url = Application.dataPath + "/Resources/Jsons" + file;
+        var url = GetDataPathUrl(file);
         Debug.Log("开始保存Json" + url);
         FileInfo fileInfo = new FileInfo(url);
         StreamWriter sw = fileInfo.CreateText();
@@ -188,7 +202,7 @@ public static class BSGJsonExtension
     //创建json文件
     private static T BSGCreatDataPathJson<T>(string file, T defaultInfo)
     {
-        var url = Application.dataPath + "/Resources/Jsons/" + file; 
+        var url = GetDataPathUrl(file); 
         Debug.Log("开始创建Json" + url);
         FileInfo fileInfo = new FileInfo(url);
         StreamWriter sw = fileInfo.CreateText();

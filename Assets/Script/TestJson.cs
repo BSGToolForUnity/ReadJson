@@ -37,6 +37,15 @@ public class TestJson : MonoBehaviour
         }
         BSGJsonExtension.BSGSavePersistentJson<StudentData>(flie, readStudentData);
     }
+
+    public void BtnSet2() 
+    {
+        for (int i = 0; i < readStudentData.classes.Length; i++)
+        {
+            readStudentData.classes[i].className = "修改班级" + i;
+        }
+        BSGJsonExtension.BSGSaveDataPathJson<StudentData>(flie, readStudentData); 
+    }
     /// <summary>
     /// 初始化Data
     /// </summary>

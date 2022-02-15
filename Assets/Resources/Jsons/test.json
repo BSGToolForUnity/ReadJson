@@ -1,0 +1,1081 @@
+{
+    "classes": [
+        {
+            "className": "班级0",
+            "classPos": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "studentInfos": [
+                {
+                    "studentName": "张0",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 5,
+                            "Score2": 4,
+                            "Score3": 51
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 14,
+                            "Score2": 11,
+                            "Score3": 29
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 26,
+                            "Score2": 49,
+                            "Score3": 13
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 96,
+                            "Score2": 64,
+                            "Score3": 70
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 32,
+                            "Score2": 8,
+                            "Score3": 92
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张1",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 44,
+                            "Score2": 82,
+                            "Score3": 4
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 98,
+                            "Score2": 93,
+                            "Score3": 28
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 2,
+                            "Score2": 61,
+                            "Score3": 40
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 96,
+                            "Score2": 21,
+                            "Score3": 25
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 51,
+                            "Score2": 26,
+                            "Score3": 30
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张2",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 47,
+                            "Score2": 65,
+                            "Score3": 64
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 93,
+                            "Score2": 71,
+                            "Score3": 48
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 31,
+                            "Score2": 41,
+                            "Score3": 88
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 68,
+                            "Score2": 86,
+                            "Score3": 22
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 87,
+                            "Score2": 7,
+                            "Score3": 59
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张3",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 73,
+                            "Score2": 89,
+                            "Score3": 84
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 53,
+                            "Score2": 90,
+                            "Score3": 7
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 45,
+                            "Score2": 65,
+                            "Score3": 25
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 2,
+                            "Score2": 91,
+                            "Score3": 80
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 97,
+                            "Score2": 53,
+                            "Score3": 85
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张4",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 71,
+                            "Score2": 59,
+                            "Score3": 17
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 0,
+                            "Score2": 36,
+                            "Score3": 44
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 10,
+                            "Score2": 74,
+                            "Score3": 85
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 14,
+                            "Score2": 91,
+                            "Score3": 10
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 46,
+                            "Score2": 50,
+                            "Score3": 83
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张5",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 32,
+                            "Score2": 89,
+                            "Score3": 96
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 94,
+                            "Score2": 0,
+                            "Score3": 20
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 4,
+                            "Score2": 95,
+                            "Score3": 32
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 68,
+                            "Score2": 38,
+                            "Score3": 86
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 84,
+                            "Score2": 37,
+                            "Score3": 88
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张6",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 85,
+                            "Score2": 22,
+                            "Score3": 35
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 76,
+                            "Score2": 25,
+                            "Score3": 10
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 6,
+                            "Score2": 66,
+                            "Score3": 2
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 29,
+                            "Score2": 49,
+                            "Score3": 46
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 51,
+                            "Score2": 38,
+                            "Score3": 99
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张7",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 92,
+                            "Score2": 39,
+                            "Score3": 69
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 41,
+                            "Score2": 4,
+                            "Score3": 54
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 65,
+                            "Score2": 86,
+                            "Score3": 79
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 87,
+                            "Score2": 74,
+                            "Score3": 51
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 24,
+                            "Score2": 29,
+                            "Score3": 47
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张8",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 41,
+                            "Score2": 34,
+                            "Score3": 45
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 68,
+                            "Score2": 97,
+                            "Score3": 68
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 19,
+                            "Score2": 89,
+                            "Score3": 70
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 46,
+                            "Score2": 81,
+                            "Score3": 84
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 21,
+                            "Score2": 26,
+                            "Score3": 59
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张9",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 44,
+                            "Score2": 96,
+                            "Score3": 44
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 48,
+                            "Score2": 93,
+                            "Score3": 84
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 62,
+                            "Score2": 26,
+                            "Score3": 39
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 3,
+                            "Score2": 19,
+                            "Score3": 97
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 21,
+                            "Score2": 34,
+                            "Score3": 93
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "className": "班级1",
+            "classPos": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "studentInfos": [
+                {
+                    "studentName": "张0",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 14,
+                            "Score2": 83,
+                            "Score3": 69
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 48,
+                            "Score2": 9,
+                            "Score3": 62
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 9,
+                            "Score2": 90,
+                            "Score3": 85
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 6,
+                            "Score2": 26,
+                            "Score3": 55
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 40,
+                            "Score2": 70,
+                            "Score3": 30
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张1",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 24,
+                            "Score2": 0,
+                            "Score3": 45
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 1,
+                            "Score2": 33,
+                            "Score3": 77
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 93,
+                            "Score2": 36,
+                            "Score3": 37
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 0,
+                            "Score2": 51,
+                            "Score3": 71
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 91,
+                            "Score2": 51,
+                            "Score3": 99
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张2",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 64,
+                            "Score2": 99,
+                            "Score3": 58
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 82,
+                            "Score2": 65,
+                            "Score3": 24
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 9,
+                            "Score2": 73,
+                            "Score3": 58
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 74,
+                            "Score2": 29,
+                            "Score3": 43
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 78,
+                            "Score2": 74,
+                            "Score3": 41
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张3",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 27,
+                            "Score2": 47,
+                            "Score3": 53
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 84,
+                            "Score2": 94,
+                            "Score3": 11
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 16,
+                            "Score2": 23,
+                            "Score3": 2
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 52,
+                            "Score2": 15,
+                            "Score3": 85
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 97,
+                            "Score2": 62,
+                            "Score3": 79
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张4",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 49,
+                            "Score2": 75,
+                            "Score3": 83
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 12,
+                            "Score2": 28,
+                            "Score3": 24
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 44,
+                            "Score2": 43,
+                            "Score3": 90
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 91,
+                            "Score2": 47,
+                            "Score3": 34
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 12,
+                            "Score2": 77,
+                            "Score3": 82
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张5",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 74,
+                            "Score2": 98,
+                            "Score3": 22
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 81,
+                            "Score2": 83,
+                            "Score3": 32
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 23,
+                            "Score2": 26,
+                            "Score3": 90
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 9,
+                            "Score2": 36,
+                            "Score3": 58
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 61,
+                            "Score2": 4,
+                            "Score3": 60
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张6",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 12,
+                            "Score2": 8,
+                            "Score3": 44
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 75,
+                            "Score2": 97,
+                            "Score3": 7
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 7,
+                            "Score2": 92,
+                            "Score3": 35
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 16,
+                            "Score2": 32,
+                            "Score3": 6
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 96,
+                            "Score2": 29,
+                            "Score3": 29
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张7",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 46,
+                            "Score2": 12,
+                            "Score3": 86
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 91,
+                            "Score2": 41,
+                            "Score3": 89
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 14,
+                            "Score2": 92,
+                            "Score3": 57
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 84,
+                            "Score2": 25,
+                            "Score3": 83
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 12,
+                            "Score2": 8,
+                            "Score3": 0
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张8",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 88,
+                            "Score2": 24,
+                            "Score3": 1
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 37,
+                            "Score2": 9,
+                            "Score3": 50
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 38,
+                            "Score2": 91,
+                            "Score3": 43
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 37,
+                            "Score2": 37,
+                            "Score3": 1
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 86,
+                            "Score2": 86,
+                            "Score3": 5
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张9",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 52,
+                            "Score2": 92,
+                            "Score3": 78
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 91,
+                            "Score2": 84,
+                            "Score3": 84
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 25,
+                            "Score2": 50,
+                            "Score3": 44
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 88,
+                            "Score2": 30,
+                            "Score3": 80
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 6,
+                            "Score2": 73,
+                            "Score3": 15
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "className": "班级2",
+            "classPos": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "studentInfos": [
+                {
+                    "studentName": "张0",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 81,
+                            "Score2": 23,
+                            "Score3": 42
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 61,
+                            "Score2": 3,
+                            "Score3": 48
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 83,
+                            "Score2": 51,
+                            "Score3": 24
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 37,
+                            "Score2": 11,
+                            "Score3": 26
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 98,
+                            "Score2": 36,
+                            "Score3": 73
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张1",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 3,
+                            "Score2": 73,
+                            "Score3": 21
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 90,
+                            "Score2": 21,
+                            "Score3": 0
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 95,
+                            "Score2": 51,
+                            "Score3": 5
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 83,
+                            "Score2": 8,
+                            "Score3": 83
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 16,
+                            "Score2": 15,
+                            "Score3": 26
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张2",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 63,
+                            "Score2": 2,
+                            "Score3": 42
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 84,
+                            "Score2": 76,
+                            "Score3": 30
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 95,
+                            "Score2": 1,
+                            "Score3": 31
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 0,
+                            "Score2": 7,
+                            "Score3": 96
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 94,
+                            "Score2": 70,
+                            "Score3": 32
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张3",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 59,
+                            "Score2": 64,
+                            "Score3": 0
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 29,
+                            "Score2": 60,
+                            "Score3": 95
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 0,
+                            "Score2": 64,
+                            "Score3": 2
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 2,
+                            "Score2": 78,
+                            "Score3": 5
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 51,
+                            "Score2": 36,
+                            "Score3": 64
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张4",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 71,
+                            "Score2": 89,
+                            "Score3": 37
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 8,
+                            "Score2": 84,
+                            "Score3": 72
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 71,
+                            "Score2": 93,
+                            "Score3": 56
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 49,
+                            "Score2": 54,
+                            "Score3": 53
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 63,
+                            "Score2": 3,
+                            "Score3": 53
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张5",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 34,
+                            "Score2": 86,
+                            "Score3": 78
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 78,
+                            "Score2": 8,
+                            "Score3": 94
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 88,
+                            "Score2": 36,
+                            "Score3": 0
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 51,
+                            "Score2": 28,
+                            "Score3": 28
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 31,
+                            "Score2": 87,
+                            "Score3": 45
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张6",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 3,
+                            "Score2": 62,
+                            "Score3": 89
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 5,
+                            "Score2": 77,
+                            "Score3": 84
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 90,
+                            "Score2": 47,
+                            "Score3": 71
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 77,
+                            "Score2": 95,
+                            "Score3": 23
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 23,
+                            "Score2": 90,
+                            "Score3": 34
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张7",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 0,
+                            "Score2": 52,
+                            "Score3": 20
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 97,
+                            "Score2": 51,
+                            "Score3": 70
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 9,
+                            "Score2": 94,
+                            "Score3": 99
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 28,
+                            "Score2": 43,
+                            "Score3": 95
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 96,
+                            "Score2": 27,
+                            "Score3": 82
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张8",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 50,
+                            "Score2": 17,
+                            "Score3": 81
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 21,
+                            "Score2": 6,
+                            "Score3": 94
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 58,
+                            "Score2": 64,
+                            "Score3": 22
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 91,
+                            "Score2": 35,
+                            "Score3": 52
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 98,
+                            "Score2": 89,
+                            "Score3": 16
+                        }
+                    ]
+                },
+                {
+                    "studentName": "张9",
+                    "scoreInfos": [
+                        {
+                            "number": 0,
+                            "Score1": 84,
+                            "Score2": 21,
+                            "Score3": 21
+                        },
+                        {
+                            "number": 1,
+                            "Score1": 19,
+                            "Score2": 2,
+                            "Score3": 6
+                        },
+                        {
+                            "number": 2,
+                            "Score1": 83,
+                            "Score2": 22,
+                            "Score3": 33
+                        },
+                        {
+                            "number": 3,
+                            "Score1": 6,
+                            "Score2": 73,
+                            "Score3": 7
+                        },
+                        {
+                            "number": 4,
+                            "Score1": 10,
+                            "Score2": 9,
+                            "Score3": 92
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
